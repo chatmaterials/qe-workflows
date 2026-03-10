@@ -1,0 +1,5 @@
+interface:
+  display_name: "QE Workflows"
+  short_description: "Set up, inspect, and restart QE workflows"
+  brand_color: "#0F766E"
+  default_prompt: "Use $qe-workflows to prepare, inspect, or debug a Quantum ESPRESSO workflow."
