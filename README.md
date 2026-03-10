@@ -1,5 +1,7 @@
 # qe-workflows
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/qe-workflows/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/qe-workflows/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/qe-workflows?display_name=tag)](https://github.com/chatmaterials/qe-workflows/releases)
+
 Standalone skill for Quantum ESPRESSO workflow setup, review, convergence checks, and restart handling.
 
 ## What This Skill Covers
